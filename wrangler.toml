@@ -1,0 +1,7 @@
+name = "terraform-remote"
+main = "src/index.ts"
+compatibility_date = "2023-02-09"
+[[r2_buckets]]
+binding = "states"
+bucket_name = "states"
+preview_bucket_name = "states"
